@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668210652775",
+    "firebase_url": "https://money-planner-9b325-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "money-planner-9b325",
+    "storage_bucket": "money-planner-9b325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668210652775:android:5f5b798512d4c249d656c2",
+        "android_client_info": {
+          "package_name": "com.example.moneyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WuyyKvK8RYT0mKcvEwj-21Mp3zaM0vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
