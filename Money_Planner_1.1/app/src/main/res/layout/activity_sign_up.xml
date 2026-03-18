@@ -35,7 +35,7 @@
         android:ems="10"
         android:fontFamily="sans-serif-black"
         android:hint="@string/password"
-        android:inputType="text"
+        android:inputType="textPassword"
         android:minHeight="48dp"
         android:paddingLeft="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
